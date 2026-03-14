@@ -1,0 +1,19 @@
+{
+  "url": "https://example.com/",
+  "name": "RED 2026",
+  "description": "Весенняя сессия - мероприятие для умных и свободных",
+  "version": "1.0.0",
+  "author": "S.A.S.",
+  "photo": [
+    {
+      "url": "img/red.png",
+      "width": 200,
+      "height": 120
+    }
+  ],
+  "background_color": "#111827",
+  "dark_background_color": "#111827",
+  "button_color": "#d62434",
+  "text_color": "#ffffff",
+  "dark_text_color": "#ffffff"
+}
